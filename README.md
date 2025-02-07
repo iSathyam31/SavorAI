@@ -23,6 +23,7 @@ SavorAI
 
 ### Project Context
 Many students in my college struggle to decide what food to order within a specific price range or based on their mood. To make their dining experience easier, I collected the menus of all nearby restaurants and built this AI-powered application to provide personalized food recommendations.
+The menu for the restaurants near my college are in this [Drive](https://drive.google.com/drive/folders/1u2VcKgRvLJE40ihpT7AHLk8CD6LPDwiz?usp=drive_link)
 
 📌 You can also contribute by adding your own restaurant menus!
 
