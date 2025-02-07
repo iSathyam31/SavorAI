@@ -21,6 +21,11 @@ SavorAI
 │── requirements.txt     # Dependencies  
 ```
 
+### Project Context
+Many students in my college struggle to decide what food to order within a specific price range or based on their mood. To make their dining experience easier, I collected the menus of all nearby restaurants and built this AI-powered application to provide personalized food recommendations.
+
+📌 You can also contribute by adding your own restaurant menus!
+
 ### Setup Instructions
 #### Create a Virtual Environment
 ```
