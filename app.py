@@ -8,10 +8,6 @@ from langchain_ollama.llms import OllamaLLM
 from typing import List
 import os
 
-# Create data directory if it doesn't exist
-if not os.path.exists('Data'):
-    os.makedirs('Data')
-
 # Initialize session state
 def init_session_state():
     if 'messages' not in st.session_state:
@@ -185,7 +181,7 @@ def main():
     )
     
     # Main title with emojis
-    st.title("🍽️ Smart Menu Assistant 🤖")
+    st.title("🍽️ SavorAI 🤖")
     st.markdown("### 👨‍🍳 Your Personal Restaurant Guide 🌟")
     st.markdown("---")
     
