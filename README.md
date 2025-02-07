@@ -1,4 +1,4 @@
-## SavorAI: AI-driven Food Selection For Every Plate
+## SavorAI: AI-driven Food Selection For Every Plate 🍽️🤖
 ### Overview
 SavorAI is an intelligent restaurant menu assistant that leverages AI to provide personalized food recommendations and enhance dining experiences. By analyzing uploaded menu PDFs, the application offers context-aware suggestions, dietary considerations, and interactive dining guidance.
 
